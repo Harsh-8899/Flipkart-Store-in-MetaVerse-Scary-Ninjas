@@ -1,4 +1,4 @@
-##### By Team "We_Do_It_With_Cookies"
+##### By Team "Scary Ninjas"
 
 #  MetaCommerce - A future of shopping  in MetaVerse
 
@@ -20,14 +20,6 @@ So here we bring you "Flipkart's 3D virtual world" <br />
 
 ## Demo video link
 🟡[Demo Video Link (GoogleDrive)](https://drive.google.com/file/d/1GOG08OZHiCUhxqW914xlhj9qCPoCGE_z/view?usp=sharing)
-
-## Screenshots 
-
-
-|      Avatar Generation        |   Plus Member Zone  |
-| :--------------------: | :---------------------: |
-| <img src="https://bafybeihqwlbuuuo5hbfp3g7mkics3of7ft2aea6qj6bpts666vwlnmxkxm.ipfs.dweb.link/Screenshot%20%28429%29.png" alt="avatarGeneration" border="0" > |         <img src="https://bafybeic7pbenqh2fa5czoop6gyl3c2awjxthnhvmbgz75lol2tcojpkoim.ipfs.dweb.link/Screenshot%20%28432%29.png" border="0"> |
-
 
 
 ## Table of Contents
