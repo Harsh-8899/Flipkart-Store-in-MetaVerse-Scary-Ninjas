@@ -1,17 +1,11 @@
 ##### By Team "Scary Ninjas"
 
-#  MetaCommerce - A future of shopping  in MetaVerse
+#  MetaCommerce - A future of shopping in MetaVerse
 
 * How about changing the whole shopping experience to a more realistic one ..? <br />
 * How about having fun and enjoying the feel of being at places like "shopping malls"  without actually being there and from the comfort of your home ..?<br /> 
 * How about owning your product not only in the real world but in digital world as well ?<br />
 <br />
-
-* **Sounds cool right ??** <br />
-
-<p align="center">
-  <img src="https://bafybeidjwukipmza2eocekav3l7i75uf6335fn7gqaxfeqinbcvvaycyem.ipfs.dweb.link/?filename=Screenshot%2520%252833%2529.png" alt="animated" />
-</p>
 
 So here we bring you "Flipkart's 3D virtual world" <br />
 * A fully 3D virtual world in MetaVerse in Decentraland. <br />
@@ -19,7 +13,7 @@ So here we bring you "Flipkart's 3D virtual world" <br />
 * Mana Tokens - In-game ERC-20 cryptocurrency of Decentraland used to trade land and other goods(wearables,objects etc) in the virtual world.
 
 ## Demo video link
-🟡[Demo Video Link (GoogleDrive)](https://drive.google.com/file/d/1GOG08OZHiCUhxqW914xlhj9qCPoCGE_z/view?usp=sharing)
+🟡[Demo Video Link (GoogleDrive)](https://drive.google.com/drive/folders/1b_Tkrbs4ZekdbUDSZoiDW7g0pUt2K8Hb)
 
 
 ## Table of Contents
@@ -98,7 +92,7 @@ dcl start
 ```
 ## Documentation
 
-[PPT Documentation](https://drive.google.com/file/d/192TvsyfbdwjmdQRYeYozvTWteCe0S09S/view?usp=sharing)
+[PPT Documentation](https://drive.google.com/file/d/1RhWVRWi3sCTYQb2ojmqQ-6h9RJF5V_hA/view)
 
 ## Future Aspects
  * Firstly, the *“purchasing”* of product by the user.What we have planned to do is that we will generate a *NFT* of each product.Now the user will purchase the product using the *“MANA tokens”* as currency and in return the NFT of that product will be *transferred* to the user.In this way the user can even flaunt about the item which they own *digitally* as well.Now this product gets delivered to the user in real world.So this is how the metaverse will work -it will connect the virtual world created to the real world we live in !
@@ -109,12 +103,10 @@ dcl start
 
 ## Authors
 
-  > [Tanisha Bhadani](https://github.com/tanisha-bhadani)
+  > [Rashi Gupta](https://github.com/rashigupta12)
   
-  > [Rahul Verma](https://github.com/inexorable23)
-  
-  > [Saurabh Tripathi](https://github.com/st2251)
+  > [Harsh Kumar](https://github.com/Harsh-8899)
  
 #### Made with perseverance and love by 
-#### Team We_Do_It_With_Cookies ❤️
-#### As a solution for Level-2 problem statement given by Flipkart in Flipkart GRID4.0 Hackathon Challenge
+#### Team Scary Ninjas ❤️
+#### As a solution for Build With Delhi
