@@ -92,7 +92,7 @@ dcl start
 ```
 ## Documentation
 
-[PPT Documentation](https://drive.google.com/file/d/1RhWVRWi3sCTYQb2ojmqQ-6h9RJF5V_hA/view)
+[PPT Documentation](https://drive.google.com/file/d/1RhWVRWi3sCTYQb2ojmqQ-6h9RJF5V_hA/view?usp=sharing)
 
 ## Future Aspects
  * Firstly, the *“purchasing”* of product by the user.What we have planned to do is that we will generate a *NFT* of each product.Now the user will purchase the product using the *“MANA tokens”* as currency and in return the NFT of that product will be *transferred* to the user.In this way the user can even flaunt about the item which they own *digitally* as well.Now this product gets delivered to the user in real world.So this is how the metaverse will work -it will connect the virtual world created to the real world we live in !
